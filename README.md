@@ -256,7 +256,6 @@ conda create -n hfdnn python=3.10
 conda activate hfdnn
 
 # 3. Install dependencies
-pip install -r requirements.txt
 # Core deps: torch, torchvision, numpy, scipy, scikit-learn
 ```
 
