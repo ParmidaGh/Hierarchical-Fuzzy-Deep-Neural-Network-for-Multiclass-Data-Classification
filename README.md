@@ -248,7 +248,7 @@ Hierarchical-Fuzzy-Deep-Neural-Network-for-Multiclass-Data-Classification
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/farzadjannati/Hierarchical-Fuzzy-Deep-Neural-Network-for-Multiclass-Data-Classification.git
+git clone https://github.com/ParmidaGh/Hierarchical-Fuzzy-Deep-Neural-Network-for-Multiclass-Data-Classification.git
 cd Hierarchical-Fuzzy-Deep-Neural-Network-for-Multiclass-Data-Classification
 
 # 2. Create and activate the environment
